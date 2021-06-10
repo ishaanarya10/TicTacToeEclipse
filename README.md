@@ -1,2 +1,2 @@
 # TicTacToeEclipse
-A console application made on eclipse using Java and OOP concepts.
+A console application made on Eclipse using Java and OOP concepts.
